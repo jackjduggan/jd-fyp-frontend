@@ -82,8 +82,8 @@ input {
   align-items: center;
   justify-content: center;
   width: 100%;
-  max-width: 1200px; /* Adjust as needed */
-  box-sizing: border-box;
+  /*max-width: 1200px;
+  /*box-sizing: border-box;*/
   padding: 20px;
 }
 
@@ -96,7 +96,7 @@ input {
 }
 
 .logo {
-  max-height: 100px;
+  max-height: 200px;
 }
 
 .heading {
